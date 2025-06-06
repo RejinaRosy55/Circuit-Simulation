@@ -1,0 +1,49 @@
+1231/1
+0: x0x0x10x1x10000000000000000000000 0xxx001001xx001x1xxxxxxxD' (Fault Detected)
+1: x1x0x0xx0x10000000000000000000000 xxxxxxxxxxxxxxxxxxxxxxxx1 (Fault Not Detected)
+2: x0x0x1001010000000000000000000000 0xxx101001xx001x1xxxxx1x0 (Fault Not Detected)
+3: x0x1x1001010000000000000000000000 0xxx101001xx101x1xxxxx1x1 (Fault Not Detected)
+4: xxx0x00x1xx0000000000000000000000 xxxxxxxxxxxx0xxx1xxxxxx1x (Fault Not Detected)
+
+346/0
+0: x0x0x10x1x10000000000000000000000 0xxx001001xx001x1xxxxxxx0 (Fault Not Detected)
+1: x1x0x0xx0x10000000000000000000000 xxxxxxxxxxxxxxxxxxxxxxxx1 (Fault Not Detected)
+2: x0x0x1001010000000000000000000000 0xxx101001xx001x1xxxxx1x0 (Fault Not Detected)
+3: x0x1x1001010000000000000000000000 0xxx101001xx101x1xxxxx1x1 (Fault Not Detected)
+4: xxx0x00x1xx0000000000000000000000 xxxxxxxxxxxx0xxx1xxxxxx1x (Fault Not Detected)
+
+2829/1
+0: x0x0x10x1x10000000000000000000000 0xxx001001xx001x1xxxxxxx0 (Fault Not Detected)
+1: x1x0x0xx0x10000000000000000000000 xxxxxxxxxxxxxxxxxxxxxxxxD (Fault Detected)
+2: x0x0x1001010000000000000000000000 0xxx101001xx001x1xxxxx1x0 (Fault Not Detected)
+3: x0x1x1001010000000000000000000000 0xxx101001xx101x1xxxxx1x1 (Fault Not Detected)
+4: xxx0x00x1xx0000000000000000000000 xxxxxxxxxxxx0xxx1xxxxxx1x (Fault Not Detected)
+
+1697/0
+0: x0x0x10x1x10000000000000000000000 0xxx001001xx001x1xxxxxxx0 (Fault Not Detected)
+1: x1x0x0xx0x10000000000000000000000 xxxxxxxxxxxxxxxxxxxxxxxx1 (Fault Not Detected)
+2: x0x0x1001010000000000000000000000 0xxx101001xx001x1xxxxx1xD' (Fault Detected)
+3: x0x1x1001010000000000000000000000 0xxx101001xx101x1xxxxx1xD (Fault Detected)
+4: xxx0x00x1xx0000000000000000000000 xxxxxxxxxxxx0xxx1xxxxxx1x (Fault Not Detected)
+
+1661/1
+0: x0x0x10x1x10000000000000000000000 0xxx001001xx001x1xxxxxxx0 (Fault Not Detected)
+1: x1x0x0xx0x10000000000000000000000 xxxxxxxxxxxxxxxxxxxxxxxx1 (Fault Not Detected)
+2: x0x0x1001010000000000000000000000 0xxx101001xx001x1xxxxx1x0 (Fault Not Detected)
+3: x0x1x1001010000000000000000000000 0xxx101001xx101x1xxxxx1xD (Fault Detected)
+4: xxx0x00x1xx0000000000000000000000 xxxxxxxxxxxx0xxx1xxxxxx1x (Fault Not Detected)
+
+2129/1
+0: x0x0x10x1x10000000000000000000000 0xxx001001xx001x1xxxxxxx0 (Fault Not Detected)
+1: x1x0x0xx0x10000000000000000000000 xxxxxxxxxxxxxxxxxxxxxxxx1 (Fault Not Detected)
+2: x0x0x1001010000000000000000000000 0xxx101001xx001x1xxxxx1x0 (Fault Not Detected)
+3: x0x1x1001010000000000000000000000 0xxx101001xx101x1xxxxx1x1 (Fault Not Detected)
+4: xxx0x00x1xx0000000000000000000000 xxxxxxxxxxxxD'xxx1xxxxxx1x (Fault Detected)
+
+2071/1
+0: x0x0x10x1x10000000000000000000000 0xxx001001xx001x1xxxxxxx0 (Fault Not Detected)
+1: x1x0x0xx0x10000000000000000000000 xxxxxxxxxxxxxxxxxxxxxxxx1 (Fault Not Detected)
+2: x0x0x1001010000000000000000000000 0xxx101001xx001x1xxxxx1x0 (Fault Not Detected)
+3: x0x1x1001010000000000000000000000 0xxx101001xx101x1xxxxx1x1 (Fault Not Detected)
+4: xxx0x00x1xx0000000000000000000000 xxxxxxxxxxxx0xxx1xxxxxx1x (Fault Not Detected)
+

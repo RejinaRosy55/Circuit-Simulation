@@ -1,0 +1,40 @@
+2/1
+0: 00x00 D'x (Fault Detected)
+1: 10x00 11 (Fault Not Detected)
+2: x1x00 1x (Fault Not Detected)
+3: 10000 11 (Fault Not Detected)
+4: 01100 00 (Fault Not Detected)
+5: 11100 10 (Fault Not Detected)
+
+11/0
+0: 00x00 0x (Fault Not Detected)
+1: 10x00 Dx (Fault Detected)
+2: x1x00 1x (Fault Not Detected)
+3: 10000 DD (Fault Detected)
+4: 01100 00 (Fault Not Detected)
+5: 11100 10 (Fault Not Detected)
+
+22/0
+0: 00x00 0x (Fault Not Detected)
+1: 10x00 D1 (Fault Detected)
+2: x1x00 Dx (Fault Detected)
+3: 10000 D1 (Fault Detected)
+4: 01100 00 (Fault Not Detected)
+5: 11100 D0 (Fault Detected)
+
+16/1
+0: 00x00 0x (Fault Not Detected)
+1: 10x00 Dx (Fault Detected)
+2: x1x00 1x (Fault Not Detected)
+3: 10000 D1 (Fault Detected)
+4: 01100 00 (Fault Not Detected)
+5: 11100 10 (Fault Not Detected)
+
+6/1
+0: 00x00 0x (Fault Not Detected)
+1: 10x00 11 (Fault Not Detected)
+2: x1x00 1x (Fault Not Detected)
+3: 10000 11 (Fault Not Detected)
+4: 01100 00 (Fault Not Detected)
+5: 11100 10 (Fault Not Detected)
+
